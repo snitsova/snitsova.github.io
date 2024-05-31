@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Silviya Nitsova"
 title_separator          : "-"
 name                     : &name "Silviya Nitsova"
-description              : &description "PhD Candidate"
+description              : &description "Political Scientist"
 url                      : https://snitsova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snitsova/snitsova.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Silviya Nitsova"
   avatar           : "SNitsova_July2023.jpg"
-  bio              : "PhD Candidate, Political Science, UNC-Chapel Hill"
+  bio              : "British Academy International Fellow, University of Manchester"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7jKWbUUAAAAJ&hl=en&oi=ao"
-  email            : "snitsova@live.unc.edu"
+  email            : "silviya.nitsova@manchester.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

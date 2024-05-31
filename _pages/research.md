@@ -14,9 +14,9 @@ author_profile: true
 ## Working Papers and Work in Progress
 “Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine”  
 
-“The Extremely Rich during the Politics of the Extraordinary: Oligarchic Networks of Influence and the Russo-Ukrainian War”
+“Public Support for the Superrich: Evidence from Ukraine at War” 
 
-“Public Support for the Superrich” 
+“The Extremely Rich during the Politics of the Extraordinary: Oligarchic Networks of Influence and the Russo-Ukrainian War”
 
 “Corporate Resilience at Time of War,” with [Inna Melnykovska](https://people.ceu.edu/inna_melnykovska). 
 
