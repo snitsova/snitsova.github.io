@@ -12,11 +12,9 @@ author_profile: true
 [“Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution,”](https://www.tandfonline.com/doi/abs/10.1080/09668136.2021.1912297?journalCode=ceas20) *Europe-Asia Studies,* 2021, 73:10, 1832-1856.  
 
 ## Working Papers and Work in Progress
-“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine”  
+“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Working paper.*
 
-“Public Support for the Superrich: Evidence from Ukraine at War” 
+“Attitudes towards Redistribution from the Extremely Rich: Evidence from Ukraine at War.” *Working paper.* [Pre-analysis plan](https://doi.org/10.17605/OSF.IO/VMGK7)
 
-“The Extremely Rich during the Politics of the Extraordinary: Oligarchic Networks of Influence and the Russo-Ukrainian War”
-
-“Corporate Resilience at Time of War,” with [Inna Melnykovska](https://people.ceu.edu/inna_melnykovska). 
+“The Extremely Rich during the Politics of the Extraordinary: Oligarchic Networks of Influence and the Russo-Ukrainian War.” *Working paper.*
 

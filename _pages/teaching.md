@@ -27,3 +27,15 @@ author_profile: true
 ## Evidence of Teaching Effectiveness
 
 [Summary of Teaching Evaluations]({{ site.url }}/files/SNitsova_Teaching_Effectiveness_May2024.pdf)
+
+## Guest Lectures
+* **Central European University, Invisible University for Ukraine**
+  * December 12, 2024 (online)
+  * Course: Research Methods for the Social Sciences (BA, MA, PhD students)
+  * Lecture: "Introduction to Social Network Analysis"
+  
+* **Kyiv School of Economics**
+  * November 13, 2024 (online)
+  * Course: Introduction to Public Policy (MA students)
+  * Lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
+  
