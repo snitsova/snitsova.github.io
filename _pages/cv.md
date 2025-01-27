@@ -13,4 +13,4 @@ redirect_from:
     </embed>
 </object>
 
-My CV can also be viewed and downloaded [here]({{ site.url }}/files/SNitsova_CV_Jan2025).
+My CV can also be viewed and downloaded [here]({{ site.url }}/files/SNitsova_CV_Jan2025). 
