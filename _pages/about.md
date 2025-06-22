@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a political scientist and [British Academy International Fellow](https://www.thebritishacademy.ac.uk/funding/international-fellowships/international-fellowships-2023/#:~:text=PI%3A-,Dr%20Silviya%20Nitsova,-UK%20Sponsor%3A) at the Department of Politics at [The University of Manchester](https://www.manchester.ac.uk/). I earned my PhD in Political Science from [The University of North Carolina at Chapel Hill](https://www.unc.edu/).
+I am a political scientist and [British Academy International Fellow](https://www.thebritishacademy.ac.uk/funding/international-fellowships/international-fellowships-2023/#:~:text=PI%3A-,Dr%20Silviya%20Nitsova,-UK%20Sponsor%3A) in the Politics Department at [The University of Manchester](https://www.manchester.ac.uk/). I am also affiliated with [The Mitchell Center for Social Network Analysis](https://www.socialsciences.manchester.ac.uk/mitchell-centre/). I earned my PhD in Political Science from [The University of North Carolina at Chapel Hill](https://www.unc.edu/).
 
 I work on political economy, money in politics, and corruption. I am especially interested in how extremely wealthy businesspeople (oligarchs) interact with politicians, political institutions, and the public to shape important political and policy outcomes in weakly institutionalized states. In my research, I draw heavily from the contemporary experience of Ukraine and other post-communist states, and utilize a variety of data collection and data analysis methods, including social network analysis, surveys and survey experiments, automated data collection techniques, and qualitative interviews.
 
