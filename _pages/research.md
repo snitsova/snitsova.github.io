@@ -12,7 +12,7 @@ author_profile: true
 [“Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution,”](https://www.tandfonline.com/doi/abs/10.1080/09668136.2021.1912297?journalCode=ceas20) *Europe-Asia Studies,* 2021, 73:10, 1832-1856.  
 
 ## Working Papers and Work in Progress
-“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” [Working Paper](https://www.dropbox.com/scl/fi/r8wwofhzmv56f7owrcuip/Nitsova_Oligarchic_Networks_Jun2025.pdf?rlkey=rl8x9gxf7w5jxv46v2ul5y21v&st=cl0vptxh&dl=0)
+“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” [Preprint](https://doi.org/10.31219/osf.io/k27ez_v1)
 
 “Attitudes towards Redistribution from the Extremely Rich: Evidence from Ukraine at War.” [Pre-Analysis Plan](https://doi.org/10.17605/OSF.IO/VMGK7) *Working Paper available upon request.*
 
