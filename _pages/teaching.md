@@ -5,6 +5,23 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Evidence of Teaching Effectiveness
+
+[Summary of Teaching Evaluations]({{ site.url }}/files/SNitsova_Teaching_Effectiveness_May2024.pdf)
+
+## University of Manchester
+
+## Guest Lectures
+* **Central European University, Invisible University for Ukraine**
+  * December 12, 2024 (online)
+  * Course: Research Methods for the Social Sciences (BA, MA, PhD students)
+  * Lecture: "Introduction to Social Network Analysis"
+  
+* **Kyiv School of Economics**
+  * November 13, 2024 (online)
+  * Course: Introduction to Public Policy (MA students)
+  * Lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
+
 ##  University of North Carolina at Chapel Hill
 
 ##  Primary Instructor
@@ -22,20 +39,4 @@ author_profile: true
 ## Curriculum Development
 
 * **Poli 281 Data in Politics: An Introduction**
-  * In summer 2023, I worked with [Lucy Martin](https://sites.google.com/site/lucymartin/), [Timothy Ryan](https://timryan.web.unc.edu/), [Isabel Laterzo](https://isabellaterzo.com/), and [Bryce Hecht](https://politicalscience.unc.edu/staff/bryce-hecht/) on developing a cutting-edge undergraduate curriculum in quantitative social science for UNC’s Political Science Department. My main contributions included compiling new data sets, developing new homework assignments, and revamping existing teaching materials.
-  
-## Evidence of Teaching Effectiveness
-
-[Summary of Teaching Evaluations]({{ site.url }}/files/SNitsova_Teaching_Effectiveness_May2024.pdf)
-
-## Guest Lectures
-* **Central European University, Invisible University for Ukraine**
-  * December 12, 2024 (online)
-  * Course: Research Methods for the Social Sciences (BA, MA, PhD students)
-  * Lecture: "Introduction to Social Network Analysis"
-  
-* **Kyiv School of Economics**
-  * November 13, 2024 (online)
-  * Course: Introduction to Public Policy (MA students)
-  * Lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
-  
+  * In summer 2023, I worked with [Lucy Martin](https://sites.google.com/site/lucymartin/), [Timothy Ryan](https://timryan.web.unc.edu/), [Isabel Laterzo](https://isabellaterzo.com/), and [Bryce Hecht](https://sites.google.com/view/brycehecht/home) on developing a cutting-edge undergraduate curriculum in quantitative social science for UNC’s Political Science Department. My main contributions included compiling new data sets, developing new homework assignments, and revamping existing teaching materials.

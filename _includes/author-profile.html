@@ -41,8 +41,30 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-      {% endif %}
+  {% assign handle = author.twitter | replace:'@','' %}
+  <li>
+    <a href="https://x.com/{{ handle }}" aria-label="X (formerly Twitter)" title="X (formerly Twitter)" rel="me noopener">
+      <i class="fa-brands fa-x-twitter" aria-hidden="true"></i> X (formerly Twitter)
+    </a>
+  </li>
+{% endif %}
+
+{% if author.X %}
+  <li>
+    <a href="{{ author.X }}" aria-label="X (formerly Twitter)" title="X (formerly Twitter)" rel="me noopener">
+      <i class="fa-brands fa-x-twitter" aria-hidden="true"></i> X (formerly Twitter)
+    </a>
+  </li>
+{% endif %}
+
+
+{% if author.Bluesky %}
+  <li>
+    <a href="{{ author.Bluesky }}">
+      <i class="fa-brands fa-bluesky" aria-hidden="true"></i> Bluesky
+    </a>
+  </li>
+{% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
