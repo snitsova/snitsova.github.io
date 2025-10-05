@@ -10,7 +10,7 @@ author_profile: true
 [Summary of Teaching Evaluations]({{ site.url }}/files/SNitsova_Teaching_Effectiveness_May2024.pdf)
 
 ## University of Manchester
-
+<hr class="section-rule">
 ## Guest Lectures
 * **Central European University, Invisible University for Ukraine**
   * December 12, 2024 (online)
@@ -23,7 +23,7 @@ author_profile: true
   * Lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
 
 ##  University of North Carolina at Chapel Hill
-
+<hr class="section-rule">
 ##  Primary Instructor
 
 * **Poli 281 Data in Politics: An Introduction**
