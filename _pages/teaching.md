@@ -11,7 +11,7 @@ author_profile: true
 
 ## University of Manchester
 <hr class="section-rule">
-## Guest Lectures
+## Guest Lecturer
 * **Central European University, Invisible University for Ukraine**
   * December 12, 2024 (online)
   * Course: Research Methods for the Social Sciences (BA, MA, PhD students)

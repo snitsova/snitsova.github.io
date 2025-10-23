@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers
 <hr class="section-rule">
-“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Under review.* <br> [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v1) 
+“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Revise & Resubmit at American Political Science Review.* <br> [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v1) 
 
 “Attitudes towards Redistribution from the Extremely Rich: Evidence from Ukraine at War.” *Working Paper available upon request.* <br> [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
 
