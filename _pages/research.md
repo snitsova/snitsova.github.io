@@ -7,15 +7,17 @@ author_profile: true
 
 ## Book Project
 <hr class="section-rule">
-"Divide and Rule: Oligarchic Networks and Patronal Politics." *Book Manuscript in progress.*
+"Divide and Rule: Oligarchic Networks and Patronal Politics." *Book manuscript in progress.*
 
 ## Working Papers
 <hr class="section-rule">
-“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Revise & Resubmit at American Political Science Review.* <br> [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v1) 
+“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Revise & Resubmit at American Political Science Review.* <br> [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v2) 
 
-“Attitudes towards Redistribution from the Extremely Rich: Evidence from Ukraine at War.” *Working Paper available upon request.* <br> [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
+“Attitudes towards Redistribution from the Extremely Rich: Evidence from Ukraine at War.” *Working paper available upon request.* <br> [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
 
-“The Extremely Rich during the Politics of the Extraordinary: Oligarchic Networks of Influence and the Russo-Ukrainian War.” *Working Paper available upon request.*
+"Oligarchs and Geopolitical Realignment." *Work in progress.*
+
+"How Do Attitudes towards Wealth and Economic Redistribution Vary across East European Democracies?," with [Bilyana Petrova](https://bilyanapetrova.com/). *Early work in progress.*
 
 ## Publications
 <hr class="section-rule">

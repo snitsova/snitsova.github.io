@@ -9,19 +9,6 @@ author_profile: true
 
 [Summary of Teaching Evaluations]({{ site.url }}/files/SNitsova_Teaching_Effectiveness_May2024.pdf)
 
-## University of Manchester
-<hr class="section-rule">
-## Guest Lecturer
-* **Central European University, Invisible University for Ukraine**
-  * December 12, 2024 (online)
-  * Course: Research Methods for the Social Sciences (BA, MA, PhD students)
-  * Lecture: "Introduction to Social Network Analysis"
-  
-* **Kyiv School of Economics**
-  * November 13, 2024 (online)
-  * Course: Introduction to Public Policy (MA students)
-  * Lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
-
 ##  University of North Carolina at Chapel Hill
 <hr class="section-rule">
 ##  Primary Instructor
@@ -40,3 +27,19 @@ author_profile: true
 
 * **Poli 281 Data in Politics: An Introduction**
   * In summer 2023, I worked with [Lucy Martin](https://sites.google.com/site/lucymartin/), [Timothy Ryan](https://timryan.web.unc.edu/), [Isabel Laterzo](https://isabellaterzo.com/), and [Bryce Hecht](https://sites.google.com/view/brycehecht/home) on developing a cutting-edge undergraduate curriculum in quantitative social science for UNC’s Political Science Department. My main contributions included compiling new data sets, developing new homework assignments, and revamping existing teaching materials.
+  
+## Short Courses and Guest Lectures
+<hr class="section-rule">
+* **19th Political Networks Conference**
+  * Half-day training workshop: Empirical Strategies for Studying Hidden and Elite Political Networks
+  * August 5, 2026 (Manchester)
+  
+* **Central European University, Invisible University for Ukraine**
+  * Guest lecture: "Introduction to Social Network Analysis"
+  * Course: Research Methods for the Social Sciences (BA, MA, PhD students)
+  * December 12, 2024 (online)
+
+* **Kyiv School of Economics**
+  * Guest lecture: "Oligarchic Networks of Influence and Ukraine’s Verkhovna Rada since the Euromaidan"
+  * Course: Introduction to Public Policy (MA students)
+  * November 13, 2024 (online)
