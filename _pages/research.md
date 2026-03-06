@@ -9,7 +9,7 @@ author_profile: true
 <hr class="section-rule">
 "Divide and Rule: Oligarchic Networks and Patronal Politics." *Book manuscript in progress.*
 
-## Working Papers
+## Working Papers & Work in Progress
 <hr class="section-rule">
 “Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.” *Revise & Resubmit at American Political Science Review.* <br> [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v2) 
 
