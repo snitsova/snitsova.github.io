@@ -30,9 +30,9 @@ author_profile: true
   
 ## Short Courses and Guest Lectures
 <hr class="section-rule">
-* **19th Political Networks Conference**
+* **[19th Political Networks Conference](https://sites.google.com/view/confpolinetworks/)**
   * Half-day training workshop: Empirical Strategies for Studying Hidden and Elite Political Networks
-  * August 5, 2026 (Manchester)
+  * August 5, 2026 (Manchester) *Scheduled*
   
 * **Central European University, Invisible University for Ukraine**
   * Guest lecture: "Introduction to Social Network Analysis"
