@@ -28,10 +28,10 @@ author_profile: true
 * **Poli 281 Data in Politics: An Introduction**
   * In summer 2023, I worked with [Lucy Martin](https://sites.google.com/site/lucymartin/), [Timothy Ryan](https://timryan.web.unc.edu/), [Isabel Laterzo](https://isabellaterzo.com/), and [Bryce Hecht](https://sites.google.com/view/brycehecht/home) on developing a cutting-edge undergraduate curriculum in quantitative social science for UNC’s Political Science Department. My main contributions included compiling new data sets, developing new homework assignments, and revamping existing teaching materials.
   
-## Short Courses and Guest Lectures
+## Workshops and Guest Lectures
 <hr class="section-rule">
-* **[19th Political Networks Conference](https://sites.google.com/view/confpolinetworks/)**
-  * Half-day training workshop: Empirical Strategies for Studying Hidden and Elite Political Networks
+* **[19th Annual Political Networks Conference](https://sites.google.com/view/confpolinetworks/)**
+  * Half-day training workshop: [Designing Empirical Research on Political Networks](https://sites.google.com/view/confpolinetworks/2026/workshops#:~:text=Designing%20Empirical%20Research,University%20of%20Manchester)
   * August 5, 2026 (Manchester) *Scheduled*
   
 * **Central European University, Invisible University for Ukraine**
