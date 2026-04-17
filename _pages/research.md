@@ -21,18 +21,18 @@ author_profile: true
   </p>
 </details>
 
-**“War, Oligarchs, and the Conditional Legitimacy of Property Rights.”** *Working paper available upon request.* [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
+**“War, Oligarchs, and the Conditional Legitimacy of Property Rights.”** *Working paper.* [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
 <details>
   <summary>Abstract</summary>
-  <p>
+   <p>
   <em>
-    Does war increase public support for state intervention in asset ownership, and under what conditions do citizens view wartime infringements on property rights by the state as legitimate? Drawing on insights from the literatures on the political legitimacy of property rights, deservingness in evaluations of the rich, and war and redistributive preferences, this paper develops a theory of conditional property rights legitimacy during wartime.
- 
-Property rights are politically sustained institutions shaped by social norms and context. I argue that war activates norms of solidarity and fairness regarding the distribution of the war burden, increasing public support for state intervention in asset ownership. However, this shift is not unconditional. Citizens evaluate the wartime contributions of wealthy asset holders, specifically the extremely rich (oligarchs), against standards of solidarity and fairness. They also take into account these actors’ pre-war conduct, particularly the perceived legitimacy of how they made their initial wealth and the extent to which they contribute to society through productive and prosocial activities. When either of these criteria is not met, support for nationalization increases.
+Does war increase public support for state intervention in asset ownership, and under what conditions do citizens view wartime infringements on property rights by the state as legitimate? Drawing on insights from the literatures on the political legitimacy of property rights, deservingness in evaluations of the rich, and war and redistributive preferences, this paper develops a theory of conditional property rights legitimacy during wartime.
+
+Property rights are politically sustained institutions shaped by social norms and context. I argue that war activates norms of solidarity and fairness regarding the distribution of the war burden, increasing public support for state intervention in asset ownership. However, this shift is not unconditional. Citizens evaluate the wartime contributions of wealthy asset holders, specifically the extremely rich (oligarchs), against standards of solidarity and fairness, while also taking into account these actors’ pre-war conduct, including how they made their wealth and the extent to which they contributed to society. When either of these criteria is not met, support for nationalization increases.
  
 I test this theory using multi-wave panel survey data from Ukraine fielded before and after the onset of Russia's full-scale invasion, combined with an original conjoint survey experiment conducted during the full-scale war. The results show that war increases public support for state intervention in the ownership of industrial enterprises. At the same time, support for nationalization is highly conditional on the behavior of individual extremely rich asset holders. Both pre-war and wartime actions by oligarchs—particularly those signaling prosociality, merit, and in-group belonging—reduce support for nationalization. However, no single form of prosocial wartime behavior offsets the positive effect of wealth acquired through corrupt or illegal means. This penalty can be mitigated or reversed only through a combination of prosocial behaviors.
   </em>
-  </p>
+   </p>
 </details>
 
 **"Oligarchs and Geopolitical Realignment."** *Work in progress.*
