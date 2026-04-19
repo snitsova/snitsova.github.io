@@ -31,7 +31,7 @@ author_profile: true
 ## Workshops and Guest Lectures
 <hr class="section-rule">
 * **[19th Annual Political Networks Conference](https://sites.google.com/view/confpolinetworks/)**
-  * Half-day training workshop: [Designing Empirical Research on Political Networks](https://sites.google.com/view/confpolinetworks/2026/workshops#:~:text=Designing%20Empirical%20Research,University%20of%20Manchester)
+  * Half-day training workshop (PhD students, ECRs): [Designing Empirical Research on Political Networks](https://sites.google.com/view/confpolinetworks/2026/workshops#:~:text=Designing%20Empirical%20Research,University%20of%20Manchester)
   * August 5, 2026 (Manchester) *Scheduled*
   
 * **Central European University, Invisible University for Ukraine**
