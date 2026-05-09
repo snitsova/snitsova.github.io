@@ -13,5 +13,5 @@ My CV can be viewed and downloaded [here]({{ site.url }}/files/Nitsova_CV_May202
     <embed src="{{ site.url }}/files/Nitsova_CV_May2026.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.url }}/files/Nitsova_CV_May2026.pdf>Download PDF</a>.</p>
     </embed>
-</object>
+</object> 
 
