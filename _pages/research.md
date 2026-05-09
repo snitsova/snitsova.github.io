@@ -5,12 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-## Book Project
+## Publications
 <hr class="section-rule">
-**"Divide and Rule: Oligarchic Networks and Patronal Politics."** *Book manuscript in progress.*
+## Books and Monographs  
+**Revolution and Reform in Ukraine: Evaluating Four Years of Reform,** with [Grigore Pop-Eleches](https://gpop.scholar.princeton.edu/) and [Graeme Robertson](https://tarheels.live/graemebrobertson/), PONARS Eurasia, July 2018. 70 pages.
+[\[Publisher Link\]](https://www.ponarseurasia.org/revolution-and-reform-in-ukraine-evaluating-four-years-of-reform/)
 
-## Working Papers & Work in Progress
-<hr class="section-rule">
+<details>
+  <summary>Summary</summary>
+    <em>
+In this volume, we assess the progress of reforms that Ukraine embarked on after its 2014 revolution and analyze the main factors that explain the successes and failures we see. We focus on a number of key areas—economic reform, governance and anti-corruption, security and criminal justice and language policy—and discuss the progress and challenges in each. The key to understanding patterns of relative success and failure, we argue, lies in understanding the interaction between Ukrainian civil society and the international community. We develop the idea of the "sandwich model" in which domestic civil society plays a crucial role in elaborating policy ideas and in policing progress in implementation, while the international community presses an often reluctant political elite into adopting reforms. The most progress in reforms has been made where cooperation between domestic civil society and international actors has been close and well-coordinated. In other areas, progress has been more limited. The "sandwich model" represents a new way of understanding how international and domestic actors can contribute to reform in a context where neither the government nor the opposition are unambiguously supportive of essential reforms.
+    </em>
+</details>
+
+## Peer-Reviewed Articles
 **“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.”** *Conditionally accepted at American Political Science Review.* [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v2)
 <details>
   <summary>Abstract</summary>
@@ -19,6 +27,21 @@ author_profile: true
   </em>
 </details>
 
+**“Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution,”** *Europe-Asia Studies,* 2021, 73:10, 1832-1856. 
+[\[Publisher Link\]](https://www.tandfonline.com/doi/abs/10.1080/09668136.2021.1912297?journalCode=ceas20)
+[\[Media Coverage\]](https://www.washingtonpost.com/politics/2022/04/05/ukraine-oligarchs-russia-invasion/)
+<details>
+  <summary>Abstract</summary>
+    <em>The pro-Russian protests that spread across the east and south of Ukraine in the aftermath of the Euromaidan Revolution set largely similar regions on starkly different trajectories. While Donbas saw a successful rebellion and later slid into war, Kharkiv and Dnipropetrovsk managed to avoid a separatist scenario. In this article, I examine the critical early stages of the pro-Russian unrest and argue that the initial success of the separatist rebellion in Donbas and its failure in Kharkiv and Dnipropetrovsk can be best explained by the differences in elite strategies and civil society organisation in the respective regions.
+    </em>
+</details>
+
+## Book Project
+<hr class="section-rule">
+**"Divide and Rule: Oligarchic Networks and Patronal Politics."** *Book manuscript in progress.*
+
+## Working Papers & Work in Progress
+<hr class="section-rule">
 **“War, Oligarchs, and the Conditional Legitimacy of Property Rights.”** *Working paper.* [\[Pre-Analysis Plan\]](https://doi.org/10.17605/OSF.IO/VMGK7)
 <details>
   <summary>Abstract</summary>
@@ -42,26 +65,3 @@ How do powerful economic elites respond to geopolitical shocks, and why do they 
 **Oligarchs as Networked Actors: A Relational Conceptualization in Comparative and Global Perspective,"** with [John Heathershaw](https://experts.exeter.ac.uk/613-john-heathershaw). *Early work in progress.*
 
 **"How Do Attitudes towards Wealth and Economic Redistribution Vary across East European Democracies?,"** with [Bilyana Petrova](https://bilyanapetrova.com/). *Early work in progress.*
-
-## Publications
-<hr class="section-rule">
-## Books and Monographs  
-**Revolution and Reform in Ukraine: Evaluating Four Years of Reform,** with [Grigore Pop-Eleches](https://gpop.scholar.princeton.edu/) and [Graeme Robertson](https://tarheels.live/graemebrobertson/), PONARS Eurasia, July 2018. 70 pages.
-[\[Publisher Link\]](https://www.ponarseurasia.org/revolution-and-reform-in-ukraine-evaluating-four-years-of-reform/)
-
-<details>
-  <summary>Summary</summary>
-    <em>
-In this volume, we assess the progress of reforms that Ukraine embarked on after its 2014 revolution and analyze the main factors that explain the successes and failures we see. We focus on a number of key areas—economic reform, governance and anti-corruption, security and criminal justice and language policy—and discuss the progress and challenges in each. The key to understanding patterns of relative success and failure, we argue, lies in understanding the interaction between Ukrainian civil society and the international community. We develop the idea of the "sandwich model" in which domestic civil society plays a crucial role in elaborating policy ideas and in policing progress in implementation, while the international community presses an often reluctant political elite into adopting reforms. The most progress in reforms has been made where cooperation between domestic civil society and international actors has been close and well-coordinated. In other areas, progress has been more limited. The "sandwich model" represents a new way of understanding how international and domestic actors can contribute to reform in a context where neither the government nor the opposition are unambiguously supportive of essential reforms.
-    </em>
-</details>
-
-## Peer-Reviewed Articles
-**“Why the Difference? Donbas, Kharkiv and Dnipropetrovsk After Ukraine’s Euromaidan Revolution,”** *Europe-Asia Studies,* 2021, 73:10, 1832-1856. 
-[\[Publisher Link\]](https://www.tandfonline.com/doi/abs/10.1080/09668136.2021.1912297?journalCode=ceas20)
-[\[Media Coverage\]](https://www.washingtonpost.com/politics/2022/04/05/ukraine-oligarchs-russia-invasion/)
-<details>
-  <summary>Abstract</summary>
-    <em>The pro-Russian protests that spread across the east and south of Ukraine in the aftermath of the Euromaidan Revolution set largely similar regions on starkly different trajectories. While Donbas saw a successful rebellion and later slid into war, Kharkiv and Dnipropetrovsk managed to avoid a separatist scenario. In this article, I examine the critical early stages of the pro-Russian unrest and argue that the initial success of the separatist rebellion in Donbas and its failure in Kharkiv and Dnipropetrovsk can be best explained by the differences in elite strategies and civil society organisation in the respective regions.
-    </em>
-</details>
