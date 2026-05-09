@@ -39,6 +39,8 @@ How do powerful economic elites respond to geopolitical shocks, and why do they 
   </em>
 </details>
 
+**Oligarchs as Networked Actors: A Relational Conceptualization in Comparative and Global Perspective,"** with [John Heathershaw](https://experts.exeter.ac.uk/613-john-heathershaw). *Early work in progress.*
+
 **"How Do Attitudes towards Wealth and Economic Redistribution Vary across East European Democracies?,"** with [Bilyana Petrova](https://bilyanapetrova.com/). *Early work in progress.*
 
 ## Publications
