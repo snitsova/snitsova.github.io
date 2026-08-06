@@ -32,7 +32,8 @@ author_profile: true
 <hr class="section-rule">
 * **[19th Annual Political Networks Conference](https://sites.google.com/view/confpolinetworks/)**
   * Half-day training workshop (PhD students, ECRs): [Designing Empirical Research on Political Networks](https://sites.google.com/view/confpolinetworks/2026/workshops#:~:text=Designing%20Empirical%20Research,University%20of%20Manchester)
-  * August 5, 2026 (Manchester) *Scheduled*
+  * August 5, 2026 (Manchester)
+  * [Slides]({{ site.url }}/files/Nitsova_POLNET2026_workshop_slides.pdf)
   
 * **Central European University, Invisible University for Ukraine**
   * Guest lecture: "Introduction to Social Network Analysis"
