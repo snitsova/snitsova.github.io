@@ -5,21 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
-<hr class="section-rule">
-## Books and Monographs  
-**Revolution and Reform in Ukraine: Evaluating Four Years of Reform,** with [Grigore Pop-Eleches](https://gpop.scholar.princeton.edu/) and [Graeme Robertson](https://tarheels.live/graemebrobertson/), PONARS Eurasia, July 2018. 70 pages.
-[\[Publisher Link\]](https://www.ponarseurasia.org/revolution-and-reform-in-ukraine-evaluating-four-years-of-reform/)
-
-<details>
-  <summary>Summary</summary>
-    <em>
-In this volume, we assess the progress of reforms that Ukraine embarked on after its 2014 revolution and analyze the main factors that explain the successes and failures we see. We focus on a number of key areas—economic reform, governance and anti-corruption, security and criminal justice and language policy—and discuss the progress and challenges in each. The key to understanding patterns of relative success and failure, we argue, lies in understanding the interaction between Ukrainian civil society and the international community. We develop the idea of the "sandwich model" in which domestic civil society plays a crucial role in elaborating policy ideas and in policing progress in implementation, while the international community presses an often reluctant political elite into adopting reforms. The most progress in reforms has been made where cooperation between domestic civil society and international actors has been close and well-coordinated. In other areas, progress has been more limited. The "sandwich model" represents a new way of understanding how international and domestic actors can contribute to reform in a context where neither the government nor the opposition are unambiguously supportive of essential reforms.
-    </em>
-</details>
-
 ## Peer-Reviewed Articles
-**“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.”** *Conditionally accepted at American Political Science Review.* [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v2)
+<hr class="section-rule">
+**“Oligarchic Networks of Influence and Legislatures in Developing Democracies: Evidence from Ukraine.”** *Conditionally accepted at American Political Science Review (pending journal replication review).* [\[Preprint\]](https://doi.org/10.31219/osf.io/k27ez_v2)
 <details>
   <summary>Abstract</summary>
   <em>
@@ -38,7 +26,7 @@ In this volume, we assess the progress of reforms that Ukraine embarked on after
 
 ## Book Project
 <hr class="section-rule">
-**"Divide and Rule: Oligarchic Networks and Patronal Politics."** *Book manuscript in progress.*
+**"Divide and Rule: Oligarchic Networks and Patronal Politics."**
 
 ## Working Papers & Work in Progress
 <hr class="section-rule">
@@ -46,22 +34,31 @@ In this volume, we assess the progress of reforms that Ukraine embarked on after
 <details>
   <summary>Abstract</summary>
   <em>
-Does war increase public support for state intervention in asset ownership, and under what conditions do citizens view wartime infringements on property rights by the state as legitimate? Drawing on insights from the literatures on the political legitimacy of property rights, deservingness in evaluations of the rich, and war and redistributive preferences, this paper develops a theory of conditional property rights legitimacy during wartime.
-
-Property rights are politically sustained institutions shaped by social norms and context. I argue that war activates norms of solidarity and fairness regarding the distribution of the war burden, increasing public support for state intervention in asset ownership. However, this shift is not unconditional. Citizens evaluate the wartime contributions of wealthy asset holders, specifically the extremely rich (oligarchs), against standards of solidarity and fairness, while also taking into account these actors’ pre-war conduct, including how they made their wealth and the extent to which they contributed to society. When either of these criteria is not met, support for nationalization increases.
- 
-I test this theory using multi-wave panel survey data from Ukraine fielded before and after the onset of Russia's full-scale invasion, combined with an original conjoint survey experiment conducted during the full-scale war. The results show that war increases public support for state intervention in the ownership of industrial enterprises. At the same time, support for nationalization is highly conditional on the behavior of individual extremely rich asset holders. Both pre-war and wartime actions by oligarchs—particularly those signaling prosociality, merit, and in-group belonging—reduce support for nationalization. However, no single form of prosocial wartime behavior offsets the positive effect of wealth acquired through corrupt or illegal means. This penalty can be mitigated or reversed only through a combination of prosocial behaviors.
+Does war increase public support for state intervention in asset ownership, and
+under what conditions do citizens view wartime state infringements on the property rights
+of the extremely rich as legitimate? This paper develops and tests a theory of conditional
+property rights legitimacy under wartime conditions. Drawing on data from a multi-wave
+panel survey fielded in Ukraine before and after the onset of Russia's full-scale invasion,
+combined with an original conjoint survey experiment conducted during the full-scale war,
+I show that public support for state intervention in the ownership of industrial enterprises
+increases during wartime. However, support for nationalization is highly conditional on the
+behavior of individual extremely rich asset holders. Both pre-war and wartime actions by
+oligarchs—particularly those signaling prosociality, merit, and in-group belonging—reduce
+support for nationalization. The study contributes to scholarship on the political legitimacy
+of property rights, deservingness in evaluations of the rich, and war and redistribution.
   </em>
 </details>
 
-**"Oligarchs and Geopolitical Realignment."** *Work in progress.*
+
+
+**"Oligarchs and Geopolitical Realignment."**
 <details>
   <summary>Abstract</summary>
   <em>
-How do powerful economic elites respond to geopolitical shocks, and why do they support or resist foreign policy realignment? Focusing on Ukraine and leveraging Russia's 2014 limited invasion and its 2022 full-scale invasion as exogenous shocks, this paper examines shifts in oligarchs' political support for Euro-Atlantic integration. Drawing on comprehensive administrative and expert data, as well as original relational data identifying oligarchs' loyal legislators in parliament, I infer these shifts through the observable legislative behavior of oligarchs when they hold office, and that of their loyal legislators. I argue that variation in responses to the 2014 limited invasion is explained by oligarchs' pre-war economic exposure to Russia, while responses to the 2022 full-scale invasion are more uniform. Specifically, oligarchs with deeper economic exposure are more likely to resist Euro-Atlantic alignment than those with limited exposure.
+How do powerful economic elites and their political networks respond to geopolitical shocks? This paper leverages Russia's 2022 invasion of Ukraine in a before-and-after design that follows the same individuals over time and combines unique relational, expert, and administrative data to examine whether oligarchic networks of influence in the Ukrainian legislature endure and how oligarch-MPs and oligarchs' loyal legislators change their political behavior under extreme disruption. I find some network shrinkage, as some legislators exit parliament, but substantial behavioral adaptation—both oligarch-MPs and oligarchs' loyalists become significantly more likely to support pro-EU integration legislation after the full-scale invasion, while legislators outside oligarchic networks show little comparable shift. The paper evaluates three potential explanations for this realignment: wartime state centralization, the material weakening of oligarchs, and oligarchs' pre-war economic and political exposure to Russia.
   </em>
 </details>
 
-**"Oligarchs as Networked Actors: A Relational Conceptualization in Comparative and Global Perspective,"** with [John Heathershaw](https://experts.exeter.ac.uk/613-john-heathershaw). *Early work in progress.*
+**"Oligarchs as Networked Actors: A Relational Conceptualization in Comparative and Global Perspective,"** with [John Heathershaw (Exeter)](https://experts.exeter.ac.uk/613-john-heathershaw).
 
-**"How Do Attitudes towards Wealth and Economic Redistribution Vary across East European Democracies?,"** with [Bilyana Petrova](https://bilyanapetrova.com/). *Early work in progress.*
+**"How Do Attitudes towards Wealth and Economic Redistribution Vary across East European Democracies?,"** with [Bilyana Petrova (Texas Tech)](https://bilyanapetrova.com/).
